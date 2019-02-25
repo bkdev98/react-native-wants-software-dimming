@@ -1,0 +1,22 @@
+{
+  "name": "react-native-wants-software-dimming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Quoc Khanh",
+    "email": "bkdev98@gmail.com",
+    "url": "https://qckhnh.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
